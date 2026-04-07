@@ -7,4 +7,4 @@ Another goal of this project will be to practice git commits and learning to use
 Attributions:
 -Fried Rice Image: Pixabay User: catceeq
  https://pixabay.com/users/catceeq-14180496/
--
+All other photos were my personal photos.
